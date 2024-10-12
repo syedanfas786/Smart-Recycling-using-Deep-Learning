@@ -27,7 +27,7 @@ The waste items are divided into two main categories:
   - Plastic bottles
 
 ### Dataset
-- The dataset used for training and testing consists of images of both recyclables and organics. The dataset was sourced from **Kaggle**, and the link is provided in the project files.
+- The dataset used for training and testing consists of images of both recyclables and organics. The dataset was sourced from **Kaggle**, and the link is (kaggle datasets download -d techsash/waste-classification-data)
 - **Training Set**: 22,000 images
 - **Testing Set**: 2,000 images
 
